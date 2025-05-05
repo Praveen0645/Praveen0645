@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Praveen0645
-- 👀 I’m interested in ...MERN full Stack Web development 
+- 👀 I’m interested in ...MERN Full Stack Web development 
 - 🌱 I’m currently learning ...Nothing
 - 💞️ I’m looking to collaborate on ...Solo
 - 📫 How to reach me ...Never
