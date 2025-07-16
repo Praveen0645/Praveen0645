@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praveen0645
 - 👀 I’m interested in ...MERN Full Stack Web development 
-- 🌱 I’m currently learning ...I Don't know 
+- 🌱 I’m currently learning ...I don't know 
 - 💞️ I’m looking to collaborate on ...Solo
 - 📫 How to reach me ...Never
 - 😄 Pronouns: ...
